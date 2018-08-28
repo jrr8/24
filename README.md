@@ -12,3 +12,9 @@ possible expressions and see which ones evaluate to 24.
 That's where this started, but once I did that I started playing
 with ways to get more clever and tested it against more than 4 numbers
 (spoiler, it blows up very quickly).
+
+## Web interface
+Most of my time was spent on perfecting `24.py`, but I figured
+what's the point of having these fun toys without anyone to
+share them with? So I made a simple web interface
+at http://24.broccoli-rob.me (plug: also checkout <http://broccoli-rob.me> for a good time)
